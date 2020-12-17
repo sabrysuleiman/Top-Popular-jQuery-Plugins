@@ -1,77 +1,77 @@
 # Top-Popular-jQuery-Plugins
 Top Popular jQuery Plugins
 
-Modal & dialogs ->
-https://github.com/kylefox/jquery-modal
+Modal & dialogs ->  
+https://github.com/kylefox/jquery-modal  
 https://github.com/craftpip/jquery-confirm
 
-Reqwest ( like ajax ) ->
+Reqwest ( like ajax ) ->  
 https://github.com/ded/reqwest
 
-menu ->
+menu ->  
 https://mm.onokumus.com/
 
-side menus ->
+side menus ->  
 https://github.com/artberri/sidr
 https://github.com/christophery/pushy
 
-sticky elements ->
+sticky elements ->  
 https://github.com/leafo/sticky-kit
 https://github.com/abouolia/sticky-sidebar
 
-parallax tilt hover effect ->
+parallax tilt hover effect ->  
 https://github.com/gijsroge/tilt.js
 
-equal heights ->
+equal heights ->  
 https://github.com/liabru/jquery-match-height
 
-Date and Time Picker ->
+Date and Time Picker ->  
 https://github.com/xdan/datetimepicker
 
-text animations ->
+text animations ->  
 https://github.com/jschr/textillate
 
-animated scrolling ->
+animated scrolling ->  
 https://github.com/flesler/jquery.scrollTo
-
-Tables ->
+ 
+Tables ->  
 https://github.com/olifolkerd/tabulator
 
-pagePiling ->
+pagePiling ->  
 https://github.com/alvarotrigo/pagePiling.js
 
-charts ->
+charts ->  
 https://github.com/benpickles/peity
 
-full screen pages ->
+full screen pages ->  
 https://github.com/alvarotrigo/fullPage.js
 
-WYSIWYG ->
+WYSIWYG ->  
 https://github.com/nhn/tui.editor
 
-Easy AJAX ->
+Easy AJAX ->  
 https://github.com/bigskysoftware/intercooler-js
 
-Image/Video lightbox ->
+Image/Video lightbox ->  
 https://github.com/fancyapps/fancybox
 
-jQuery Validation ->
+jQuery Validation ->  
 https://github.com/jquery-validation/jquery-validation
 
-ckickable map ->
+ckickable map ->  
 https://github.com/bjornd/jvectormap
 
-Image gallery ->
+Image gallery ->  
 https://github.com/artpolikarpov/fotorama
-
-edit in place ->
+ 
+edit in place ->  
 https://github.com/NicolasCARPi/jquery_jeditable
 
-notification ->
+notification ->  
 https://github.com/jpillora/notifyjs
 
-keyword highlighting ->
+keyword highlighting ->  
 https://github.com/julmot/mark.js
 
-Float table header ->
+Float table header ->  
 https://github.com/mkoryak/floatThead
